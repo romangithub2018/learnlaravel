@@ -12,6 +12,8 @@ use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 /* release  */
 
 /* new comment */
+/* new comment */
+/* new comment */
 
 class Controller extends BaseController
 {
