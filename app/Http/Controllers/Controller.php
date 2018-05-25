@@ -7,7 +7,9 @@ use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 
-/* Simple comment    */
+/* Simple comment */
+
+/* release */
 
 class Controller extends BaseController
 {
