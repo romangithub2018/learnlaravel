@@ -9,7 +9,9 @@ use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 
 /* Simple comment */
 
-/* release */
+/* release  */
+
+/* new comment */
 
 class Controller extends BaseController
 {
